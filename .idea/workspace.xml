@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69668799-13d5-4485-bb3a-2bd1b739edc1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1. hodina/hw.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. hodina/hw.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zkouska.py" beforeDir="false" afterPath="$PROJECT_DIR$/zkouska.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. hodina/4input.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. hodina/4input.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,12 +155,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602767662438</updated>
-      <workItem from="1602767664458" duration="7033000" />
+      <workItem from="1602767664458" duration="7285000" />
     </task>
+    <task id="LOCAL-00001" summary="update gitignore">
+      <created>1602779043234</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602779043234</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="update gitignore" />
   </component>
   <component name="WindowStateProjectService">
     <state x="691" y="194" key="#1hodina" timestamp="1602767718820">
