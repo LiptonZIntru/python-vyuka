@@ -1,5 +1,5 @@
-a = input("Zadej prvni cislo: ")
-b = input("Zadej druhe cislo: ")
+a = int(input("Zadej prvni cislo: "))
+b = int(input("Zadej druhe cislo: "))
 
 c = a + b
 print("Soucet: " + str(c))
