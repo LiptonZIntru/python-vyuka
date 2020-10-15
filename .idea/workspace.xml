@@ -174,6 +174,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="715" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602767757951" />
+    <state x="585" y="113" key="CommitChangelistDialog2" timestamp="1602779042443">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="113" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602779042443" />
     <state x="739" y="275" key="FileChooserDialogImpl" timestamp="1602776249171">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -198,6 +202,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602767880762" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602779045124">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602779045124" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_vyuka$zkouska.coverage" NAME="zkouska Coverage Results" MODIFIED="1602778923827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
