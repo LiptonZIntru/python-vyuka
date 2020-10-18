@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69668799-13d5-4485-bb3a-2bd1b739edc1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/1. hodina/4input.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. hodina/4input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. hodina/1podminky_demonstrace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. hodina/2vetsi_mensi_stredni.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. hodina/3hra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. hodina/5hra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. hodina/6fibonacciho_posloupnost.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,10 +28,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../programming projects/python/django/c4pe" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.hw">
-    <configuration name="2print" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vili2\Desktop\python vyuka\3. hodina" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.6fibonacciho_posloupnost">
+    <configuration name="1podminky_demonstrace" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python vyuka" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -33,12 +45,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1. hodina" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. hodina" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1. hodina/2print.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. hodina/1podminky_demonstrace.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -47,7 +59,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3data_types" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2vetsi_mensi_stredni" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python vyuka" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -55,12 +67,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1. hodina" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. hodina" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1. hodina/3data_types.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. hodina/2vetsi_mensi_stredni.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -69,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4input" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3hra" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python vyuka" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,12 +89,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1. hodina" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. hodina" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1. hodina/4input.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. hodina/3hra.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="6fibonacciho_posloupnost" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python vyuka" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,12 +111,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1. hodina" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3. hodina" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1. hodina/hw.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3. hodina/6fibonacciho_posloupnost.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zkouska" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="zkouska (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python vyuka" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,12 +133,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. hodina" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zkouska.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. hodina/zkouska.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.hw" />
-        <item itemvalue="Python.zkouska" />
-        <item itemvalue="Python.4input" />
-        <item itemvalue="Python.3data_types" />
-        <item itemvalue="Python.2print" />
+        <item itemvalue="Python.6fibonacciho_posloupnost" />
+        <item itemvalue="Python.3hra" />
+        <item itemvalue="Python.2vetsi_mensi_stredni" />
+        <item itemvalue="Python.zkouska (1)" />
+        <item itemvalue="Python.1podminky_demonstrace" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +167,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602767662438</updated>
-      <workItem from="1602767664458" duration="7285000" />
+      <workItem from="1602767664458" duration="7475000" />
+      <workItem from="1602781624294" duration="615000" />
+      <workItem from="1603024057482" duration="1175000" />
+      <workItem from="1603025252147" duration="4562000" />
     </task>
     <task id="LOCAL-00001" summary="update gitignore">
       <created>1602779043234</created>
@@ -179,34 +194,50 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="691" y="194" key="#1hodina/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602767718820" />
-    <state x="715" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602767757951">
+    <state x="715" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603029047132">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="715" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602767757951" />
+    <state x="715" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603029047132" />
     <state x="585" y="113" key="CommitChangelistDialog2" timestamp="1602779042443">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="585" y="113" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602779042443" />
-    <state x="739" y="275" key="FileChooserDialogImpl" timestamp="1602776249171">
+    <state x="739" y="275" key="FileChooserDialogImpl" timestamp="1603026311662">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="739" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602776249171" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1602778947620">
+    <state x="739" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603026311662" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1603029699255">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602778947620" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1602778947620">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603029699255" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1603029699255">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602778947620" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1602778947620">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603029699255" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1603029699255">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602778947620" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1602778947620">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603029699255" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1603029699255">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602778947620" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603029699255" />
+    <state width="1535" height="344" key="GridCell.Tab.1.bottom" timestamp="1603028349884">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1535" height="344" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603028349884" />
+    <state width="1535" height="344" key="GridCell.Tab.1.center" timestamp="1603028349884">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1535" height="344" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603028349884" />
+    <state width="1535" height="344" key="GridCell.Tab.1.left" timestamp="1603028349884">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1535" height="344" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603028349884" />
+    <state width="1535" height="344" key="GridCell.Tab.1.right" timestamp="1603028349884">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1535" height="344" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603028349884" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1602767880762">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -217,12 +248,17 @@
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602779045124" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python_vyuka$1podminky_demonstrace.coverage" NAME="1podminky_demonstrace Coverage Results" MODIFIED="1603026174208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. hodina" />
+    <SUITE FILE_PATH="coverage/python_vyuka$2vetsi_mensi_stredni.coverage" NAME="2vetsi_mensi_stredni Coverage Results" MODIFIED="1603027679950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. hodina" />
     <SUITE FILE_PATH="coverage/python_vyuka$zkouska.coverage" NAME="zkouska Coverage Results" MODIFIED="1602778923827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_vyuka$4input.coverage" NAME="4input Coverage Results" MODIFIED="1602778080138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. hodina" />
     <SUITE FILE_PATH="coverage/python_vyuka$1hodina.coverage" NAME="1hodina Coverage Results" MODIFIED="1602767718886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_vyuka$hw.coverage" NAME="hw Coverage Results" MODIFIED="1602778945408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. hodina" />
+    <SUITE FILE_PATH="coverage/python_vyuka$hw.coverage" NAME="hw Coverage Results" MODIFIED="1603025739824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. hodina" />
+    <SUITE FILE_PATH="coverage/python_vyuka$6fibonacciho_posloupnost.coverage" NAME="6fibonacciho_posloupnost Coverage Results" MODIFIED="1603029699250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. hodina" />
     <SUITE FILE_PATH="coverage/python_vyuka$1hello_world.coverage" NAME="1hello_world Coverage Results" MODIFIED="1602777264046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. hodina" />
     <SUITE FILE_PATH="coverage/python_vyuka$3data_types.coverage" NAME="3data_types Coverage Results" MODIFIED="1602777976140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. hodina" />
     <SUITE FILE_PATH="coverage/python_vyuka$2print.coverage" NAME="2print Coverage Results" MODIFIED="1602777652295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. hodina" />
+    <SUITE FILE_PATH="coverage/python_vyuka$zkouska__1_.coverage" NAME="zkouska (1) Coverage Results" MODIFIED="1603027509442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. hodina" />
+    <SUITE FILE_PATH="coverage/python_vyuka$3hra.coverage" NAME="3hra Coverage Results" MODIFIED="1603028678464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. hodina" />
   </component>
 </project>
